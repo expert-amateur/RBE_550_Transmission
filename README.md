@@ -3,6 +3,8 @@ Implementation of the Transmission assignment from the RBE 550 course at WPI usi
 
 Algorithm used: RRT (Rapidly exploring Random Tree)
 
+RRT is used to find a collision-free path to take the upper shaft out of the gear box by manipulating it in 3D
+
 Please only use WeBots R2023a: https://github.com/cyberbotics/webots/releases/download/R2023a/webots-R2023a_setup.exe
 
 Final Result:
