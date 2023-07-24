@@ -1,5 +1,8 @@
 # RBE_550_Transmission
-Implementation of the Transmission assignment from the RBE 550 course at WPI using Webots R2023a 
+Implementation of the Transmission assignment from the RBE 550 course at WPI using Webots R2023a
+
+Algorithm used: RRT (Rapidly exploring Random Tree)
+
 Please only use WeBots R2023a: https://github.com/cyberbotics/webots/releases/download/R2023a/webots-R2023a_setup.exe
 
 Final Result:
